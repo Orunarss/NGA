@@ -1,0 +1,4 @@
+[submodule "wt-io-it/odoo-addons"]
+	path = wt-io-it/odoo-addons
+	url = git@github.com:wt-io-it/odoo-addons.git
+	branch = 11.0
